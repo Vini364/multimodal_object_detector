@@ -1,1 +1,1 @@
-# Multimodal Object Detector - SURF 2025
+# Multimodal Object Detector 
